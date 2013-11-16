@@ -1,0 +1,93 @@
+<resources>
+
+    <string name="app_name">KDays客户端</string>
+    
+    <!--  Login 提示 -->
+    <string name="login">登录</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+	<string name="login_error">登录失败，代码%s</string>
+	
+	<string name="error_title">错误</string>
+	<string name="network_too_busy">数据加载失败，可能是网络太慢，请返回重试</string>
+	
+ <string name="WidgetProvider_timestamp_today">Today</string>
+    <string name="WidgetProvider_timestamp_yesterday">Yesterday</string>
+    <string name="WidgetProvider_timestamp_hour_ago">%s hour ago</string>
+    <string name="WidgetProvider_timestamp_hours_ago">%s hours ago</string>
+    <string name="WidgetProvider_timestamp_minutes_ago">%s minutes ago</string>
+    <string name="WidgetProvider_timestamp_just_now">Just now</string>
+
+
+    <string name="setting">Settings</string>
+    <string name="help_and_info">Help</string>
+    <string name="more">More</string>
+
+
+    <!-- fullscreen_loading_indicator.xml -->
+    <string name="loading">Loading\u2026</string>
+    <string name="network_retry">Retry</string>
+
+    <string name="settings_general_section_header">General</string>
+    <string name="clear_cache_title">Glear cache</string>
+    <string name="clear_cache_summary">Glear cache temp file</string>
+    <string name="settings_about_header">About</string>
+    <string name="os_licenses_label">Open source licenses</string>
+    <string name="os_licenses_summary">License details for open source software</string>
+    <string name="settings_build_version">Build version</string>
+    <string name="source_code_title">Source code</string>
+    <string name="source_code_summary">https://github.com/lytsing/weibo</string>
+    
+
+    <!-- listview.xml -->
+    <string name="mblog_fake_tip">此微博为不实信息。</string>
+    
+    <!-- TimelineActivity.java -->
+    <string name="new_blog_toast">Receive %d New Weibo</string>
+    <string name="no_new_blog_toast">No new weibo.</string>
+    <string name="compose">Compose</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- repost.xml -->
+    <string name="add_comment">Add comment </string>
+    <string name="comment_success">Comment successful!</string>
+    <string name="repost">Repost</string>
+    <string name="repost_success">Repost successful!</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorites_success">Favorites successful!</string>
+
+
+    <string name="locating">Get location data....</string>
+    <string name="say_something">Say something\u2026</string>
+    <string name="sending">Sending\u2026</string> 
+
+    <!-- StatusDetailActivity.java -->
+    <string name="title_mblog_content">Weibo Content</string>
+    <string name="take_photo">Take photo</string>
+    <string name="pick_photo">Choose photo from Gallery</string> 
+    <string name="comment">Comment</string>
+    <string name="type_to_compose_text_enter_to_send">Quick comment</string>
+    <string name="send">Send</string>
+    <string name="nocomments">No comments</string>
+
+    <!-- status_list_footer.xml -->
+    <string name="network_error_list_footer">No connection</string>
+    <string name="retry">Retry</string>
+
+    <string name="look_largepic">Large Image</string>
+
+	<string name="attention">Attention</string>
+    <string name="delete_all">确定全部删除么？</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+    <string name="close">Cloase</string>
+    <string name="send_success">Post successful！</string>
+    <string name="send_failed">Post failed！</string>
+    <string name="del_pic">是否删除图片？</string>
+
+    <string name="computing_size">Computing\u2026</string>
+    
+    <string name="image_empty">""</string>
+
+    <string name="from">From:%s</string>
+</resources>
